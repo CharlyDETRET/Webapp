@@ -122,6 +122,7 @@ export default {
       'Italie',
       'Espagne',
       'Japon',
+      'Royaume-Uni',
       // ajoute d'autres noms ici
     ]
 
@@ -133,6 +134,7 @@ export default {
       'Italie': 'it',
       'Espagne': 'es',
       'Japon': 'jp',
+      'Royaume-Uni': 'gb',
       // ajoute d'autres mappings ici
     }
 
