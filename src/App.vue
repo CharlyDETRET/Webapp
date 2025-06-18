@@ -120,7 +120,8 @@ export default {
       'États-Unis',
       'Allemagne',
       'Italie',
-      'Espagne'
+      'Espagne',
+      'Japon',
       // ajoute d'autres noms ici
     ]
 
@@ -131,6 +132,7 @@ export default {
       'Allemagne': 'de',
       'Italie': 'it',
       'Espagne': 'es',
+      'Japon': 'jp',
       // ajoute d'autres mappings ici
     }
 
