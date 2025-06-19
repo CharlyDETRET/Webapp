@@ -9,9 +9,7 @@
       </div>
 
       <input v-model="search" placeholder="Rechercher" />
-      <button @click="toggleFilters">
-        <span style="margin-right: 6px;">🔍</span> Filtres
-      </button>
+      <button @click="toggleFilters">Filtres</button>
     </header>
 
     <!-- Filtres -->
